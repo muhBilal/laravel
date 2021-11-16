@@ -1,7 +1,6 @@
 @extends('layouts.main')
 
 @section('container')
-    <!-- Content Wrapper. Contains page content -->
     <div class="content-wrapper">
         <!-- Content Header (Page header) -->
         <div class="content-header">
@@ -231,8 +230,7 @@
                                                         Count Dracula
                                                         <small class="contacts-list-date float-right">2/28/2015</small>
                                                     </span>
-                                                    <span class="contacts-list-msg">How have you been? I
-                                                        was...</span>
+                                                    <span class="contacts-list-msg">How have you been? I was...</span>
                                                 </div>
                                                 <!-- /.contacts-list-info -->
                                             </a>
@@ -344,13 +342,11 @@
 
                                 <div class="card-tools">
                                     <ul class="pagination pagination-sm">
-                                        <li class="page-item"><a href="#" class="page-link">&laquo;</a>
-                                        </li>
+                                        <li class="page-item"><a href="#" class="page-link">&laquo;</a></li>
                                         <li class="page-item"><a href="#" class="page-link">1</a></li>
                                         <li class="page-item"><a href="#" class="page-link">2</a></li>
                                         <li class="page-item"><a href="#" class="page-link">3</a></li>
-                                        <li class="page-item"><a href="#" class="page-link">&raquo;</a>
-                                        </li>
+                                        <li class="page-item"><a href="#" class="page-link">&raquo;</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -371,8 +367,7 @@
                                         <!-- todo text -->
                                         <span class="text">Design a nice theme</span>
                                         <!-- Emphasis label -->
-                                        <small class="badge badge-danger"><i class="far fa-clock"></i> 2
-                                            mins</small>
+                                        <small class="badge badge-danger"><i class="far fa-clock"></i> 2 mins</small>
                                         <!-- General tools such as edit or delete-->
                                         <div class="tools">
                                             <i class="fas fa-edit"></i>
@@ -389,8 +384,7 @@
                                             <label for="todoCheck2"></label>
                                         </div>
                                         <span class="text">Make the theme responsive</span>
-                                        <small class="badge badge-info"><i class="far fa-clock"></i> 4
-                                            hours</small>
+                                        <small class="badge badge-info"><i class="far fa-clock"></i> 4 hours</small>
                                         <div class="tools">
                                             <i class="fas fa-edit"></i>
                                             <i class="fas fa-trash-o"></i>
@@ -406,8 +400,7 @@
                                             <label for="todoCheck3"></label>
                                         </div>
                                         <span class="text">Let theme shine like a star</span>
-                                        <small class="badge badge-warning"><i class="far fa-clock"></i> 1
-                                            day</small>
+                                        <small class="badge badge-warning"><i class="far fa-clock"></i> 1 day</small>
                                         <div class="tools">
                                             <i class="fas fa-edit"></i>
                                             <i class="fas fa-trash-o"></i>
@@ -423,8 +416,7 @@
                                             <label for="todoCheck4"></label>
                                         </div>
                                         <span class="text">Let theme shine like a star</span>
-                                        <small class="badge badge-success"><i class="far fa-clock"></i> 3
-                                            days</small>
+                                        <small class="badge badge-success"><i class="far fa-clock"></i> 3 days</small>
                                         <div class="tools">
                                             <i class="fas fa-edit"></i>
                                             <i class="fas fa-trash-o"></i>
@@ -440,8 +432,7 @@
                                             <label for="todoCheck5"></label>
                                         </div>
                                         <span class="text">Check your messages and notifications</span>
-                                        <small class="badge badge-primary"><i class="far fa-clock"></i> 1
-                                            week</small>
+                                        <small class="badge badge-primary"><i class="far fa-clock"></i> 1 week</small>
                                         <div class="tools">
                                             <i class="fas fa-edit"></i>
                                             <i class="fas fa-trash-o"></i>
@@ -624,5 +615,3 @@
         </section>
         <!-- /.content -->
     </div>
-    <!-- /.content-wrapper -->
-@endsection

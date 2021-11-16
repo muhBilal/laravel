@@ -6,7 +6,7 @@
     <script src="{{ asset('style/plugins/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
     <script src="{{ asset('style/plugins/chart.js/Chart.min.js') }}"></script>
     <script src="{{ asset('style/plugins/sparklines/sparkline.js') }}"></script>
-    <script src="{{ asset('style/lugins/jqvmap/jquery.vmap.min.js') }}"></script>
+    <script src="{{ asset('style/plugins/jqvmap/jquery.vmap.min.js') }}"></script>
     <script src="{{ asset('style/plugins/jqvmap/maps/jquery.vmap.usa.js') }}"></script>
     <script src="{{ asset('style/plugins/jquery-knob/jquery.knob.min.js') }}"></script>
     <script src="{{ asset('style/plugins/moment/moment.min.js') }}"></script>
